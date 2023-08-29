@@ -1,0 +1,6 @@
+.nextflow*
+work/
+.nf-test/
+nf-test
+results/
+null/
